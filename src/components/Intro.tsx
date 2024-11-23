@@ -63,7 +63,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaLinkedin />
             </a>
             <a
-              href="https://drive.google.com/file/d/1HMNzMBECXJNf6MikaopBst_1Qbzx0_NQ/view"
+              href="https://drive.google.com/file/d/1g-9JxkwynUvBN5GmR8KgR-kFdZScWeqO/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -92,7 +92,7 @@ const Intro = ({ theme }: { theme: string }) => {
         <p className="text-lg leading-relaxed">
           I am a passionate Data Engineer with a strong foundation in building modern Data Pipelines.
           I am skilled in using Python, SQL, and other on prem tools like dbt, Snowflake, Apache Airflow and cloud(AWS).
-          Including knowledge on Dimensional modelling.
+          Including knowledge on Dimensional modelling, Documentation and Debugging.
         </p>
       </div>
     </div>
