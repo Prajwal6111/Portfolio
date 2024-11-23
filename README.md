@@ -1,6 +1,6 @@
-# Srinidhi Kulkarni - Portfolio Website
+# Prajwal Hiremath - Portfolio Website
 
-This repository contains the code for Srinidhi Kulkarni's personal portfolio website. The site is designed to showcase projects, skills, and experience, built using modern web technologies to ensure a professional presentation.
+This repository contains the code for Prajwal Hiremath's personal portfolio website. The site is designed to showcase projects, skills, and experience, built using modern web technologies to ensure a professional presentation.
 
 ## Overview
 

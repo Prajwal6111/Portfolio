@@ -79,7 +79,7 @@ const Intro = ({ theme }: { theme: string }) => {
             src={srinidhiDefault}
             srcSet={`${srinidhiSmall} 480w, ${srinidhiMedium} 1024w, ${srinidhiLarge} 1600w`}
             sizes="(max-width: 600px) 480px, (max-width: 1200px) 1024px, 1600px"
-            alt="Srinidhi Kulkarni"
+            alt="Prajwal Hiremath"
             effect="blur"
             className="w-64 h-64 rounded-lg object-cover shadow-lg"
           />

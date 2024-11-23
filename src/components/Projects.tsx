@@ -53,14 +53,14 @@ const Projects = ({ theme }: { theme: string }) => (
         description="Developed a robust data integration project that leverages API calls for dynamic data retrieval and implemented Slowly Changing Dimension (SCD) Type 2."
         techStack={['dbt', 'Snowflake', 'Apache Airflow', 'AWS', 'Docker', 'Python', 'SQL']}
         github="https://github.com/Prajwal6111/Weather"
-        live="https://movie-hub-omdbi.netlify.app/signin"
+        live="https://github.com/Prajwal6111/Weather"
       />
       <Project
         name="Fandango Rating Analysis"
         description="Exposing a major scam in Fandango through a business case study, using analysis of their publicly available data."
         techStack={['Python', 'SQL', 'Pandas', 'Matplotlib', 'Seaborn']}
         github="https://github.com/Prajwal6111/A-analysis-on-Fandango-data-analytics"
-        live="https://movie-hub-omdbi.netlify.app/signin"
+        live="https://github.com/Prajwal6111/A-analysis-on-Fandango-data-analytics"
       />
       <Project
         name="Prototype Dashboard for PHH client"
