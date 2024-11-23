@@ -18,7 +18,7 @@ The project has been built with the following tech stack:
 
 ## Demo
 
-You can access the live version of the portfolio here: [Srinidhi Portfolio](https://srinidhi-kulkarni.vercel.app/)
+You can access the live version of the portfolio here: [Prajwal Portfolio](https://prajwal-m-hiremath-portfolio.netlify.app/)
 
 ## Features
 
@@ -35,10 +35,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/srinidhifd/srinidhi-portfolio.git
+$ git clone https://github.com/Prajwal6111/Portfolio.git
 
 # Go into the repository
-$ cd srinidhi-portfolio
+$ cd Portfolio
 ```
 
 ### Install Dependencies
@@ -96,7 +96,7 @@ Make sure you have Jest set up in your environment if you plan to write tests fo
 ## Folder Structure
 
 ```bash
-srinidhi-portfolio/
+Portfolio/
 ├── public/          # Static assets (images, favicon, etc.)
 ├── src/             # Main source folder
 │   ├── assets/      # Media assets (images, icons)

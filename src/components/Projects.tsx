@@ -67,7 +67,7 @@ const Projects = ({ theme }: { theme: string }) => (
         description="Built a dashboard on Bank Loan data set, to efficient the loan process"
         techStack={['PowerBI', 'Snowflake', 'Python', 'SQL']}
         github="https://github.com/srinidhifd/srinidhi-portfolio"
-        live="https://movie-hub-omdbi.netlify.app/signin"
+        live="https://drive.google.com/file/d/1WOd6FERzz_6F7QkunqUluJ22vi-sXLUc/view?usp=sharing"
       />
     </div>
   </div>
