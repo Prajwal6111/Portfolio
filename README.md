@@ -132,6 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or want to connect, please reach out via:
-- **Email**: [srinidhikulkarni25@gmail.com](mailto:srinidhikulkarni25@gmail.com)
-- **LinkedIn**: [Srinidhi Kulkarni](https://linkedin.com/in/srinidhikulkarni)
-- **GitHub**: [srinidhifd](https://github.com/srinidhifd)
+- **Email**: [prajwalmh01@gmail.com](mailto:prajwalmh01@gmail.com)
+- **LinkedIn**: [Prajwal M Hiremath](https://www.linkedin.com/in/prajwal-m-hiremath)
+- **GitHub**: [Prajwal6111](https://github.com/Prajwal6111)

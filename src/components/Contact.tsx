@@ -9,26 +9,26 @@ const Contact = ({ theme }: { theme: string }) => (
       {[
         {
           Icon: FaEnvelope,
-          value: 'srinidhikulkarni25@gmail.com',
-          href: 'mailto:srinidhikulkarni25@gmail.com',
+          value: 'prajwalmh01@gmail.com',
+          href: 'mailto:prajwalmh01@gmail.com',
           color: theme === 'dark' ? 'text-blue-300' : 'text-blue-500',
         },
         {
           Icon: FaPhone,
-          value: '+91 9731485690',
-          href: 'tel:+919731485690',
+          value: '+91 7411156449',
+          href: 'tel:+917411156449',
           color: theme === 'dark' ? 'text-green-300' : 'text-green-500',
         },
         {
           Icon: FaLinkedin,
           value: 'LinkedIn Profile',
-          href: 'https://linkedin.com/in/srinidhikulkarni',
+          href: 'https://www.linkedin.com/in/prajwal-m-hiremath',
           color: theme === 'dark' ? 'text-blue-500' : 'text-blue-600',
         },
         {
           Icon: FaGithub,
           value: 'GitHub Profile',
-          href: 'https://github.com/srinidhifd',
+          href: 'https://github.com/Prajwal6111',
           color: theme === 'dark' ? 'text-gray-300' : 'text-gray-800',
         },
       ].map((contact, index) => (

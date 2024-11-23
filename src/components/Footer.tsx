@@ -10,7 +10,7 @@ const Footer = ({ theme }: { theme: string }) => {
       {/* Bottom Section: Copyright */}
       <div className="w-full max-w-6xl text-center text-sm font-semibold">
         <p className="h-full flex items-center justify-center">
-          &copy; {new Date().getFullYear()} Srinidhi Kulkarni. All rights reserved.
+          &copy; {new Date().getFullYear()} Prajwal M Hiremath. All rights reserved.
         </p>
       </div>
     </footer>

@@ -60,12 +60,14 @@ const Projects = ({ theme }: { theme: string }) => (
         description="Exposing a major scam in Fandango through a business case study, using analysis of their publicly available data."
         techStack={['Python', 'SQL', 'Pandas', 'Matplotlib', 'Seaborn']}
         github="https://github.com/Prajwal6111/A-analysis-on-Fandango-data-analytics"
+        live="https://movie-hub-omdbi.netlify.app/signin"
       />
       <Project
         name="Prototype Dashboard for PHH client"
         description="Built a dashboard on Bank Loan data set, to efficient the loan process"
         techStack={['PowerBI', 'Snowflake', 'Python', 'SQL']}
         github="https://github.com/srinidhifd/srinidhi-portfolio"
+        live="https://movie-hub-omdbi.netlify.app/signin"
       />
     </div>
   </div>

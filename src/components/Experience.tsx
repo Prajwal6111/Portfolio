@@ -27,7 +27,7 @@ const Experience = ({ theme }: { theme: string }) => (
             <h4 className="text-lg italic font-medium mb-2 md:mb-0">Data Engineer Intern</h4>
           </div>
           <div className="text-sm text-gray-500 dark:text-gray-400 mt-2 md:mt-0 md:text-left">
-            <p className="md:text-right">Oct 2023 - Nov 2023</p>
+            <p className="md:text-right">Jul 2024</p>
             <p className="md:text-right">Bengaluru</p>
           </div>
         </div>
@@ -42,7 +42,7 @@ const Experience = ({ theme }: { theme: string }) => (
             <h4 className="text-lg italic font-medium mb-2 md:mb-0">Data Engineer Intern</h4>
           </div>
           <div className="text-sm text-gray-500 dark:text-gray-400 mt-2 md:mt-0 md:text-left">
-            <p className="md:text-right">Oct 2023 - Nov 2023</p>
+            <p className="md:text-right">Jan 2024 - Jun 2024</p>
             <p className="md:text-right">Bengaluru</p>
           </div>
         </div>

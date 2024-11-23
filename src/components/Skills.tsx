@@ -1,5 +1,12 @@
-import { FaHtml5, FaCss3Alt, FaBootstrap, FaReact, FaAngular, FaPython, FaPhp, FaNodeJs, FaFigma } from 'react-icons/fa';
-import { SiTailwindcss, SiJavascript, SiMysql, SiMongodb, SiExpress } from 'react-icons/si';
+import {  FaPython, FaAws } from 'react-icons/fa';
+import {  SiPowerbi } from 'react-icons/si';
+import { SiSnowflake, SiDbt, SiApacheairflow } from 'react-icons/si';
+import { BiLogoPostgresql } from "react-icons/bi";
+import { AiOutlineConsoleSql } from "react-icons/ai";
+import { VscTerminalPowershell } from "react-icons/vsc";
+import { GrOracle } from "react-icons/gr";
+
+
 
 const Skills = ({ theme }: { theme: string }) => (
   <div id="skills" className={`py-8 px-4 ${theme === 'dark' ? 'text-white' : 'text-black'}`}>
@@ -7,20 +14,16 @@ const Skills = ({ theme }: { theme: string }) => (
     <div className="flex flex-wrap justify-center gap-5 max-w-4xl mx-auto">
       {/* Skill Cards */}
       {[
-        { Icon: FaHtml5, name: 'HTML', color: 'text-orange-600' },
-        { Icon: FaCss3Alt, name: 'CSS', color: 'text-blue-600' },
-        { Icon: FaBootstrap, name: 'Bootstrap', color: 'text-purple-600' },
-        { Icon: SiTailwindcss, name: 'Tailwind CSS', color: 'text-blue-400' },
-        { Icon: SiJavascript, name: 'JavaScript', color: 'text-yellow-500' },
-        { Icon: FaReact, name: 'React.js', color: 'text-blue-500' },
-        { Icon: FaAngular, name: 'Angular', color: 'text-red-600' },
         { Icon: FaPython, name: 'Python', color: 'text-blue-400' },
-        { Icon: FaPhp, name: 'PHP', color: 'text-indigo-700' },
-        { Icon: FaNodeJs, name: 'Node.js', color: 'text-green-600' },
-        { Icon: SiExpress, name: 'Express.js', color: 'text-gray-600' },
-        { Icon: SiMysql, name: 'MySQL', color: 'text-orange-500' },
-        { Icon: SiMongodb, name: 'MongoDB', color: 'text-green-500' },
-        { Icon: FaFigma, name: 'Figma', color: 'text-pink-500' },
+        { Icon: AiOutlineConsoleSql, name: 'SQL', color: 'text-orange-600' },
+        { Icon: SiDbt, name: 'dbt', color: 'text-orange-600' },
+        { Icon: SiSnowflake, name: 'Snowflake', color: 'text-blue-300' },
+        { Icon: SiApacheairflow, name: 'Airflow', color: 'text-DarkSlateGray-200' },
+        { Icon: FaAws, name: 'AWS', color: 'text-WHITE-500' },
+        { Icon: VscTerminalPowershell, name: 'UNIX', color: 'text-blue-500' },
+        { Icon: GrOracle, name: 'Oracle', color: 'text-red-600' },
+        { Icon: BiLogoPostgresql, name: 'PostreSQL', color: 'text-black-700' },
+        { Icon: SiPowerbi, name: 'Power BI', color: 'text-yellow-400' }
       ].map((skill, index) => (
         <div
           key={index}

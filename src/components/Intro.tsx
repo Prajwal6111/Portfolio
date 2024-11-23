@@ -31,7 +31,7 @@ const Intro = ({ theme }: { theme: string }) => {
           {/* Contact Icons */}
           <div className="flex justify-center md:justify-start space-x-6 mt-8">
             <a
-              href="mailto:srinidhikulkarni25@gmail.com"
+              href="mailto:prajwalmh01@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -47,7 +47,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaPhoneAlt />
             </a>
             <a
-              href="https://github.com/srinidhifd"
+              href="https://github.com/Prajwal6111"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -55,7 +55,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaGithub />
             </a>
             <a
-              href="https://www.linkedin.com/in/srinidhikulkarni/"
+              href="https://www.linkedin.com/in/prajwal-m-hiremath/"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
