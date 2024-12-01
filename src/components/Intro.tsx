@@ -22,7 +22,7 @@ const Intro = ({ theme }: { theme: string }) => {
         <div className="md:flex-1 text-center md:text-left">
           <h1 className="text-4xl font-bold mb-4 leading-tight">Hi, I'm Prajwal M Hiremath</h1>
           <p className="text-xl font-medium mb-4">
-            Data Engineer Intern| BE Graduate (CSE)
+            Data Engineer | BE Graduate (CSE)
           </p>
           <p className="mt-4 text-md leading-relaxed">
             I specialize in building scalable Data Pipelines, with on-prem tools and technologies.
