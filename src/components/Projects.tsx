@@ -52,8 +52,8 @@ const Projects = ({ theme }: { theme: string }) => (
         name="Modern ELT pipeline"
         description="Developed a robust data integration project that leverages API calls for dynamic data retrieval and implemented Slowly Changing Dimension (SCD) Type 2."
         techStack={['dbt', 'Snowflake', 'Apache Airflow', 'AWS', 'Docker', 'Python', 'SQL']}
-        github="https://github.com/Prajwal6111/Weather"
-        live="https://github.com/Prajwal6111/Weather"
+        github="https://github.com/Prajwal6111/Astro-Proj"
+        live="https://github.com/Prajwal6111/Astro-Proj"
       />
       <Project
         name="Fandango Rating Analysis"
