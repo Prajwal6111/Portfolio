@@ -7,7 +7,7 @@ const Experience = ({ theme }: { theme: string }) => (
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
           <div>
             <h3 className="text-2xl font-semibold mb-1">Onity Group Inc (Financial Services)</h3>
-            <h4 className="text-lg italic font-medium mb-2 md:mb-0">Data Engineer Intern</h4>
+            <h4 className="text-lg italic font-medium mb-2 md:mb-0">Data Engineer</h4>
           </div>
           <div className="text-sm text-gray-500 dark:text-gray-400 mt-2 md:mt-0 md:text-left">
             <p className="md:text-right">Aug 2024 - Present</p>
