@@ -64,7 +64,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaLinkedin />
             </a>
             <a
-              href="https://drive.google.com/file/d/1x2YMWLG9Qp3sIBJliHlSG_ELRdRHn944/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1YHnGJkg9v159PIc_k72Jv6g_K1ktGlvk/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
