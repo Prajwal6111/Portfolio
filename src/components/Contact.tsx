@@ -15,8 +15,8 @@ const Contact = ({ theme }: { theme: string }) => (
         },
         {
           Icon: FaPhone,
-          value: '+91 9743969224',
-          href: 'tel:+919743969224',
+          value: '+91 7411156449',
+          href: 'tel:+917411156449',
           color: theme === 'dark' ? 'text-green-300' : 'text-green-500',
         },
         {
