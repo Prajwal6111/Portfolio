@@ -32,7 +32,7 @@ const Intro = ({ theme }: { theme: string }) => {
           {/* Contact Icons */}
           <div className="flex justify-center md:justify-start space-x-6 mt-8">
             <a
-              href="mailto:prajwalmh01@gmail.com"
+              href="mailto:prajwalmh13@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -40,7 +40,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaEnvelope />
             </a>
             <a
-              href="tel:+919731485690"
+              href="tel:+919743969224"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
