@@ -9,14 +9,14 @@ const Contact = ({ theme }: { theme: string }) => (
       {[
         {
           Icon: FaEnvelope,
-          value: 'prajwalmh01@gmail.com',
-          href: 'mailto:prajwalmh01@gmail.com',
+          value: 'prajwalmh13@gmail.com',
+          href: 'mailto:prajwalmh13@gmail.com',
           color: theme === 'dark' ? 'text-blue-300' : 'text-blue-500',
         },
         {
           Icon: FaPhone,
-          value: '+91 7411156449',
-          href: 'tel:+917411156449',
+          value: '+91 9743969224',
+          href: 'tel:+919743969224',
           color: theme === 'dark' ? 'text-green-300' : 'text-green-500',
         },
         {
