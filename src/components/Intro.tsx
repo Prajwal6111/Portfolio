@@ -32,7 +32,7 @@ const Intro = ({ theme }: { theme: string }) => {
           {/* Contact Icons */}
           <div className="flex justify-center md:justify-start space-x-6 mt-8">
             <a
-              href="mailto:prajwalmh13@gmail.com"
+              href="mailto:prajwalmh01@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -40,7 +40,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaEnvelope />
             </a>
             <a
-              href="tel:+919743969224"
+              href="tel:+917411156449"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -64,7 +64,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaLinkedin />
             </a>
             <a
-              href="https://drive.google.com/file/d/1YHnGJkg9v159PIc_k72Jv6g_K1ktGlvk/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1-0M4uRgESWHC1KdTq-efMCOIWAGE-nTq/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
