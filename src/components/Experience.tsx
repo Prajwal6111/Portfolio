@@ -15,8 +15,8 @@ const Experience = ({ theme }: { theme: string }) => (
           </div>
         </div>
         <div className="space-y-2 text-justify">
-          <p>Building scalable ELT data pipelines for financial data using dbt, Snowflake, AWS Lambda, and Apache Airflow.</p>
-          <p>Supporting critical business operations for financial clients using Informatica, Control-M, and UNIX shell scripting.</p>
+          <p>Building scalable ELT data pipelines for financial data using dbt, Snowflake, and Apache Airflow</p>
+          <p>Supporting critical business operations building dbt models using SQL CTE</p>
         </div>
       </div>
 
