@@ -22,7 +22,7 @@ const Intro = ({ theme }: { theme: string }) => {
         <div className="md:flex-1 text-center md:text-left">
           <h1 className="text-4xl font-bold mb-4 leading-tight">Hi, I'm Prajwal M Hiremath</h1>
           <p className="text-xl font-medium mb-4">
-            Software Engineer | Bachelor's in Computer science
+            Data Engineer | Bachelor's in Computer science | 2024
           </p>
           <p className="mt-4 text-md leading-relaxed">
           I specialize in building scalable data pipelines using a variety of tools and technologies that align with my experience. 
@@ -32,7 +32,7 @@ const Intro = ({ theme }: { theme: string }) => {
           {/* Contact Icons */}
           <div className="flex justify-center md:justify-start space-x-6 mt-8">
             <a
-              href="mailto:prajwalmh2023@gmail.com"
+              href="mailto:prajwalmh01@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}
@@ -64,7 +64,7 @@ const Intro = ({ theme }: { theme: string }) => {
               <FaLinkedin />
             </a>
             <a
-              href="https://drive.google.com/file/d/1-0M4uRgESWHC1KdTq-efMCOIWAGE-nTq/view?usp=sharing"
+              href="https://drive.google.com/file/d/1VCtxURDQwHo8T1zpInPu20JrxPpWtfaP/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-3xl hover:text-orange-500 transition-colors duration-300`}

@@ -5,8 +5,7 @@ import { BiLogoPostgresql } from "react-icons/bi";
 import { AiOutlineConsoleSql } from "react-icons/ai";
 import { VscTerminalPowershell } from "react-icons/vsc";
 import { GrOracle } from "react-icons/gr";
-
-
+import { TbBrandDatabricks } from "react-icons/tb";
 
 const Skills = ({ theme }: { theme: string }) => (
   <div id="skills" className={`py-8 px-4 ${theme === 'dark' ? 'text-white' : 'text-black'}`}>
@@ -14,6 +13,7 @@ const Skills = ({ theme }: { theme: string }) => (
     <div className="flex flex-wrap justify-center gap-5 max-w-4xl mx-auto">
       {/* Skill Cards */}
       {[
+        { Icon: TbBrandDatabricks, name: 'Databricks', color: 'text-red-600' },
         { Icon: FaPython, name: 'Python', color: 'text-blue-400' },
         { Icon: AiOutlineConsoleSql, name: 'SQL', color: 'text-orange-600' },
         { Icon: SiDbt, name: 'dbt', color: 'text-orange-600' },

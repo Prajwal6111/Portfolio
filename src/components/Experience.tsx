@@ -2,7 +2,21 @@ const Experience = ({ theme }: { theme: string }) => (
   <div id="experience" className={`py-20 px-4 ${theme === 'dark' ? 'text-white' : 'text-black'}`}>
     <h2 className="text-4xl font-bold text-center mb-10">Experience</h2>
     <div className="mt-8 space-y-6 max-w-4xl mx-auto">
-      
+    <div className="p-6 rounded-lg shadow-lg border border-gray-300 dark:border-gray-700 dark:bg-gray-800 bg-white">
+        <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
+          <div>
+            <h3 className="text-2xl font-semibold mb-1">Happiest Minds Technologies</h3>
+            <h4 className="text-lg italic font-medium mb-2 md:mb-0">Associate Data Engineer</h4>
+          </div>
+          <div className="text-sm text-gray-500 dark:text-gray-400 mt-2 md:mt-0 md:text-left">
+            <p className="md:text-right">Feb 2025 - Present</p>
+            <p className="md:text-right">Bengaluru</p>
+          </div>
+        </div>
+        <div className="space-y-2 text-justify">
+          <p>I am currently working with Azure Databricks, managing ETL processes for large datasets. My role involves understanding and optimizing PySpark architecture, ensuring efficient data processing for the Analytics and Data Science teams</p>
+        </div>
+      </div>
       <div className="p-6 rounded-lg shadow-lg border border-gray-300 dark:border-gray-700 dark:bg-gray-800 bg-white">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
           <div>
@@ -10,7 +24,7 @@ const Experience = ({ theme }: { theme: string }) => (
             <h4 className="text-lg italic font-medium mb-2 md:mb-0">Data Management Intern</h4>
           </div>
           <div className="text-sm text-gray-500 dark:text-gray-400 mt-2 md:mt-0 md:text-left">
-            <p className="md:text-right">Aug 2024 - Present</p>
+            <p className="md:text-right">Aug 2024 - Feb 2025</p>
             <p className="md:text-right">Bengaluru</p>
           </div>
         </div>
@@ -32,7 +46,7 @@ const Experience = ({ theme }: { theme: string }) => (
           </div>
         </div>
         <p className="text-justify">Developed a prototype API for user interaction data using Google Analytics, optimizing data feeds to train AI models.</p>
-        <p>Documented various No-code and Low-code Data Engineering tools.</p>
+        <p>Documented various No-code and Low-code Data Engineering tools</p>
       </div>
 
       <div className="p-6 rounded-lg shadow-lg border border-gray-300 dark:border-gray-700 dark:bg-gray-800 bg-white">
@@ -46,7 +60,7 @@ const Experience = ({ theme }: { theme: string }) => (
             <p className="md:text-right">Bengaluru</p>
           </div>
         </div>
-        <p className="text-justify">Built dbt models for client Accenture, integrating failure alerts for monitoring. Created fact and dimensional models using dbt based on Medallion Architecture and managed data pipelines from Kafka to Snowflake.</p>
+        <p className="text-justify">Built dbt models for client Accenture, integrating failure alerts for monitoring. Created fact and dimensional models using dbt based on Medallion Architecture and managed data pipelines from Kafka to Snowflake</p>
       </div>
 
       <div className="p-6 rounded-lg shadow-lg border border-gray-300 dark:border-gray-700 dark:bg-gray-800 bg-white">
@@ -60,7 +74,7 @@ const Experience = ({ theme }: { theme: string }) => (
             <p className="md:text-right">Bengaluru</p>
           </div>
         </div>
-        <p className="text-justify">Built APIs for aviation-related data using Mulesoft and RAML, with end-to-end deployment to Cloudhub.</p>
+        <p className="text-justify">Built APIs for aviation-related data using Mulesoft and RAML, with end-to-end deployment to Cloudhub</p>
       </div>
 
       <div className="p-6 rounded-lg shadow-lg border border-gray-300 dark:border-gray-700 dark:bg-gray-800 bg-white">

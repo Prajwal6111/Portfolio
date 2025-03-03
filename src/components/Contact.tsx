@@ -9,8 +9,8 @@ const Contact = ({ theme }: { theme: string }) => (
       {[
         {
           Icon: FaEnvelope,
-          value: 'prajwalmh2023@gmail.com',
-          href: 'mailto:prajwalmh2023@gmail.com',
+          value: 'prajwalmh01@gmail.com',
+          href: 'mailto:prajwalmh01@gmail.com',
           color: theme === 'dark' ? 'text-blue-300' : 'text-blue-500',
         },
         {
